@@ -1,0 +1,7 @@
+.fondo{
+	background: url(images/bg2.jpg) no-repeat center center;
+	background-size: cover;
+	height: 500px;
+	text-align: center;
+	color: white;
+}
